@@ -3,7 +3,7 @@
 
 <hr>
 
-- 🌱 Atualmente estou aprendendo **ReactJs**
+- 🌱 Atualmente estou aprendendo **ReactJs e JavaScript**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis aqui.
 
