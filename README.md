@@ -1,6 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Italo</h1>
 <h3 align="center">Sou um desenvolvedor front-end</h3>
-<img aling="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/05/e9/f2/05e9f2dba5f0bde5ec8bd5af923604e0.gif"
 
 
 - 🌱 Atualmente estou aprendendo **ReactJs**
