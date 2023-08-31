@@ -1,8 +1,7 @@
 <h1 align="center">Olá 👋, eu sou o Italo</h1>
 <h3 align="center">Sou um desenvolvedor front-end</h3>
-<img aling="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F533324780872822594%2F&psig=AOvVaw2zFBFg7T1EWEmHK-fBhuvC&ust=1693533037156000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLislqrkhYEDFQAAAAAdAAAAABAt"
+<img aling="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/05/e9/f2/05e9f2dba5f0bde5ec8bd5af923604e0.gif"
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=italo-afr" alt="italo-afr" /></a> </p>
 
 - 🌱 Atualmente estou aprendendo **ReactJs**
 
