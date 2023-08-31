@@ -4,7 +4,7 @@
 
 - 🌱 Atualmente estou aprendendo **ReactJs**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis aqui [https://github.com/Italo-Afr](https://github.com/Italo-Afr)
+- 👨‍💻 Todos os meus projetos estão disponíveis aqui.
 
 - 📫 Para entrar em contato comigo: **italoafr1@gmail.com**
 
