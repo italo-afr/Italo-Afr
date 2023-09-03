@@ -3,7 +3,7 @@
 
 <hr>
 
-- 🌱 Atualmente estou aprendendo **ReactJs e JavaScript**
+- 🌱 Atualmente estou aprendendo **ReactJs e JavaScript** e quero me tornar um dev FullStack
 
 - 👨‍💻 Todos os meus projetos estão disponíveis aqui.
 
