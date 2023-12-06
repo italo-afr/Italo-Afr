@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Italo</h1>
-<h3 align="center">Sou um desenvolvedor front-end</h3>
+<h3 align="center">Sou um desenvolvedor front-end & Design</h3>
 
 <hr>
 
