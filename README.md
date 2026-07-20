@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6DB33F&height=200&section=header&text=Hi,%20I'm%20Italo%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%26%20Designer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6DB33F&height=200&section=header&text=Hi,%20I'm%20Italo%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20and%20Designer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/italoafr/" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%26+Designer;.NET+%7C+React+%7C+DevOps;Building+scalable+web+applications;Always+learning+something+new" alt="Typing SVG" />
@@ -34,27 +34,13 @@ I'm a Full Stack Developer and Designer with experience building scalable web ap
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/italo-afr/portfolio-it" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=italo-afr&repo=portfolio-it&theme=dracula&hide_border=false" width="48%"/>
-</a>
-<a href="https://github.com/italo-afr/copy-trade-bot-solana" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=italo-afr&repo=copy-trade-bot-solana&theme=dracula&hide_border=false" width="48%"/>
-</a>
-
-<a href="https://github.com/italo-afr/ListaDeTarefas" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=italo-afr&repo=ListaDeTarefas&theme=dracula&hide_border=false" width="48%"/>
-</a>
-<a href="https://github.com/italo-afr/EncurtadorURL" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=italo-afr&repo=EncurtadorURL&theme=dracula&hide_border=false" width="48%"/>
-</a>
-
-</div>
-
-<p align="center">
-  🔗 Live portfolio: <a href="https://portfolio-it-italo-afr.vercel.app/" target="_blank"><b>portfolio-it-italo-afr.vercel.app</b></a>
-</p>
+| Project | Description |
+|---|---|
+| [portfolio-it](https://github.com/italo-afr/portfolio-it) ([demo](https://portfolio-it-italo-afr.vercel.app/)) | Personal portfolio, fully responsive, built with HTML/CSS/JS |
+| [copy-trade-bot-solana](https://github.com/italo-afr/copy-trade-bot-solana) | Solana copy-trading bot with live dashboard (Pump.fun, PumpSwap, Jupiter, Jito) |
+| [ListaDeTarefas](https://github.com/italo-afr/ListaDeTarefas) | Task management system built with React and Supabase |
+| [EncurtadorURL](https://github.com/italo-afr/EncurtadorURL) | URL shortener - ASP.NET Core MVC frontend and Supabase backend |
+| [AutoVideoIA](https://github.com/italo-afr/AutoVideoIA) | Automates short video creation using AI from user-provided themes |
 
 <br>
 
@@ -105,16 +91,12 @@ I'm a Full Stack Developer and Designer with experience building scalable web ap
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=italo-afr&show_icons=true&theme=dracula&hide_border=false&count_private=true&include_all_commits=true" height="165" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo-afr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="165" alt="languages graph"/>
+  <img src="https://img.shields.io/github/stars/italo-afr?style=for-the-badge&color=0A66C2&label=Total%20Stars" alt="total stars"/>
+  <img src="https://img.shields.io/github/followers/italo-afr?style=for-the-badge&color=0A66C2&label=Followers" alt="followers"/>
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=italo-afr&theme=dracula&hide_border=false" alt="streak stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=italo-afr&theme=dracula&no-frame=false&no-bg=true&margin-w=4&column=7" alt="trophies"/>
 </div>
 
 <br>
