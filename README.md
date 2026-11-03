@@ -88,6 +88,16 @@ I'm a Full Stack Developer and Designer with experience building scalable web ap
 
 <br>
 
+## 🏙️ My Git City
+
+<div align="center">
+  <a href="https://www.thegitcity.com/dev/italo-afr">
+    <img src="https://img.shields.io/badge/My%20Git%20City-Visit%20my%20building-0A66C2?style=for-the-badge" alt="Visit my building in Git City"/>
+  </a>
+</div>
+
+<br>
+
 ## 📊 GitHub Stats
 
 <div align="center">
